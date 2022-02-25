@@ -1,7 +1,5 @@
 ### Hello! I'm Debora 👩🏻‍🔬 👩🏻‍💻
 
-I'm a Chemical Engineering student who is passionate about technology and coding.
-
 <!--
 **deboradeotti/deboradeotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
