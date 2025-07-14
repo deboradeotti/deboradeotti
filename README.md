@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Chemical Engineer by training, Software Engineer by passion** 👩🏻‍🔬 👩🏻‍💻
 
-Currently, I apply my passion for system design to my work at iFood, developing for a large-scale Android app. I enjoy solving complex problems using modern engineering practices to build products that are not just functional, but also well-crafted and maintainable.
+I love diving deep into complex systems to build well-crafted mobile applications. My passion lies in applying clean architecture and solid engineering principles to create software that is scalable, maintainable, and provides a great user experience.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboradeotti/)
