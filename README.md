@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Débora Deotti
 
-**Chemical Engineer by training, Software Engineer by passion** 👩🏻‍🔬 👩🏻‍💻
+**Software Engineer** 👩🏻‍💻
 
 I love diving deep into complex systems to build well-crafted mobile applications. My passion lies in applying clean architecture and solid engineering principles to create software that is scalable, maintainable, and provides a great user experience.
 
