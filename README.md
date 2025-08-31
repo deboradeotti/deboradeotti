@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Software enthusiast and lifelong learner.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboradeotti/)
-<!-- [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://link-para-seu-futuro-medium.com) -->
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debora.deotti)
 
 <!--
 <div>
