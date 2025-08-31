@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 **Software Engineer** 👩🏻‍💻
 
-I love diving deep into complex systems to build well-crafted mobile applications. My passion lies in applying clean architecture and solid engineering principles to create software that is scalable, maintainable, and provides a great user experience.
-
+Software enthusiast and lifelong learner.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboradeotti/)
 <!-- [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://link-para-seu-futuro-medium.com) -->
